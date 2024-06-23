@@ -67,7 +67,6 @@
 		"editorHoverWidget.background": "#000c38",
 		"editorHoverWidget.border": "#004c18",
 		"editorIndentGuide.activeBackground1": "#ffffff60",
-		"editorIndentGuide.background": "#002952",
 		"editorIndentGuide.background1": "#ffffff20",
 		"editorLineNumber.activeForeground": "#ffffff",
 		"editorLineNumber.foreground": "#ffffff60",
@@ -193,8 +192,7 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#6688CC",
-				"background": "#000C18"
+				"foreground": "#6688CC"
 			}
 		},
 		{
@@ -335,15 +333,13 @@
 			"scope": "invalid",
 			"settings": {
 				"foreground": "#F8F8F0",
-				"background": "#F92672",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#F8F8F0",
-				"background": "#AE81FF"
+				"foreground": "#F8F8F0"
 			}
 		},
 		{
@@ -353,7 +349,6 @@
 			],
 			"settings": {
 				"foreground": "#E0EDDD",
-				"background": "#B58900",
 				"fontStyle": "italic"
 			}
 		},
@@ -361,7 +356,6 @@
 			"scope": "markup.deleted",
 			"settings": {
 				"foreground": "#DC322F",
-				"background": "#EEE8D5",
 				"fontStyle": ""
 			}
 		},
@@ -369,15 +363,13 @@
 			"scope": "markup.changed",
 			"settings": {
 				"foreground": "#CB4B16",
-				"background": "#EEE8D5",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#219186",
-				"background": "#EEE8D5"
+				"foreground": "#219186"
 			}
 		},
 		{

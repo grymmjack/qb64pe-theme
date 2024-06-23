@@ -1,16 +1,11 @@
-# qb64pe-theme README
+# qb64pe-theme
 
-## Working with Markdown
+## A modern take on a retro feel.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This theme is loosely inspired by the QBasic and QuickBasic 4.5 IDEs but updated for [QB64PE](https://www.qb64phoenix.com/), and the [QB64PE Language extension](https://github.com/grymmjack/qb64pe-vscode/blob/main/qb64pe-0.10.0.vsix) (WIP not yet published manual install required).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This theme uses some colors from [MS-DOS Editor Theme](https://marketplace.visualstudio.com/items?itemName=ionicabizau.ms-dos-editor-theme) by [Ionică Bizău](https://marketplace.visualstudio.com/publishers/ionicabizau)
 
-## For more information
+## NOTE
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This is the first theme, but I plan to create more that will loosely adhere to the [QB64PE](https://www.qb64phoenix.com/) IDE color schemes that come by default with [QB64PE](https://www.qb64phoenix.com/).
