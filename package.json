@@ -14,12 +14,12 @@
   "repository": {
     "url": "https://github.com/grymmjack/qb64pe-theme"
   },
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.90.0"
   },
   "categories": [
-    "Themes"    
+    "Themes"
   ],
   "homepage": "https://www.qb64phoenix.com",
   "maintainers": [
