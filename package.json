@@ -1,0 +1,38 @@
+{
+  "name": "qb64pe-theme",
+  "displayName": "QB64PE Theme",
+  "description": "QB64PE Theme - A modern take on retro for QB64PE vscode development.",
+  "author": {
+    "email": "grymmjack@gmail.com",
+    "name": "grymmjack",
+    "url": "https://grymmjack.com"
+  },
+  "publisher": "grymmjack",
+  "contributors": [
+    "Ionică Bizău - MS-DOS Editor Theme"
+  ],
+  "repository": {
+    "url": "https://github.com/grymmjack/qb64pe-theme"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"    
+  ],
+  "homepage": "https://www.qb64phoenix.com",
+  "maintainers": [
+    "grymmjack"
+  ],
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "QB64PE Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme.json"
+      }
+    ]
+  }
+}
