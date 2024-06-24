@@ -33,6 +33,11 @@
         "label": "QB64PE Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/QB64PE Theme-color-theme.json"
+      },
+      {
+        "label": "QB64PE Theme - Super Dark Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-super-dark-blue.json"
       }
     ]
   }
