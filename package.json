@@ -15,7 +15,7 @@
   "repository": {
     "url": "https://github.com/grymmjack/qb64pe-theme"
   },
-  "version": "0.2.0",
+  "version": "0.4.1",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -38,6 +38,71 @@
         "label": "QB64PE Theme - Super Dark Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/QB64PE Theme-color-theme-super-dark-blue.json"
+      },
+      {
+        "label": "QB64PE Theme - Dark Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-dark-blue.json"
+      },
+      {
+        "label": "QB64PE Theme - QB64 Original",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-qb64-original.json"
+      },
+      {
+        "label": "QB64PE Theme - Classic QB4.5",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-classic-qb4-5.json"
+      },
+      {
+        "label": "QB64PE Theme - Dark Side",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-dark-side.json"
+      },
+      {
+        "label": "QB64PE Theme - Camouflage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-camouflage.json"
+      },
+      {
+        "label": "QB64PE Theme - Plum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-plum.json"
+      },
+      {
+        "label": "QB64PE Theme - Cornfield",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-cornfield.json"
+      },
+      {
+        "label": "QB64PE Theme - CF Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-cf-dark.json"
+      },
+      {
+        "label": "QB64PE Theme - Broadcast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-broadcast.json"
+      },
+      {
+        "label": "QB64PE Theme - VS Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-vs-code.json"
+      },
+      {
+        "label": "QB64PE Theme - X11 SgiColors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/QB64PE Theme-color-theme-x11-sgicolors.json"
+      },
+      {
+        "label": "QB64PE Theme - Light Green",
+        "uiTheme": "vs",
+        "path": "./themes/QB64PE Theme-color-theme-light-green.json"
+      },
+      {
+        "label": "QB64PE Theme - All White",
+        "uiTheme": "vs",
+        "path": "./themes/QB64PE Theme-color-theme-all-white.json"
       }
     ]
   }
